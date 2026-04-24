@@ -1,0 +1,11 @@
+# Ejecutables de C (Windows y Linux)
+*.exe
+*.out
+*.o
+
+# Carpetas de Visual Studio Code
+.vscode/
+
+# Archivos temporales o de sistema
+.DS_Store
+Thumbs.db
